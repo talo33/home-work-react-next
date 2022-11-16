@@ -1,0 +1,18 @@
+
+.toolbar-left {
+	padding-top: 10px;
+	padding-left: 10px;
+	text-align: left;
+	font-size: 20px;
+}
+.toolbar-center {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 20px;
+}
+.toolbar-right {
+	padding-top: 10px;
+	text-align: center;
+	font-size: 20px;
+}
+
